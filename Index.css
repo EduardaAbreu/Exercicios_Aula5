@@ -1,0 +1,51 @@
+body{
+
+ background-color:lavenderblush;
+ margin: 10px;
+}
+
+header{
+    background-color:moccasin;
+    color:darksalmon;
+    height: 40x;
+    padding-top: 35x;
+    padding-left: 25px;
+    padding-bottom:  20pxx;
+}
+
+h2{
+    text-align:center;
+    color:dimgrey;
+
+}
+#menu{
+    width: 700px;
+    margin: auto;
+}
+
+figure{
+  background-color: antiquewhite;
+  width:300px;
+  margin: 15px auto ;
+  border: 2px solid #919191;
+  padding: 10px;
+}
+
+figure img{
+width:300px;
+}
+
+figcaption{
+  text-align: center;
+  font-style:unset;
+  padding: 5px;
+}
+
+footer{
+  background-color:moccasin;
+  color: dimgrey;
+  height: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
