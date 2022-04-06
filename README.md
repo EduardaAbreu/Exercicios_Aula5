@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Index.css" type="text/css">
+</head>
+<body>
+    <header>
+        <h2>Galeria de Fotos</h2>
+    </header>
+    <section id= "menu">
+      <h2>Cachorros Para Adoção</h2>
+
+
+    <figure>
+    <img src="cachorro.1.jpg" alt="">
+    <figcaption> Mike </figcaption><br>
+    </figure> 
+
+    <figure> 
+        <img src="cachorro.2.jpg" alt="">
+        <figcaption> Toddy </figcaption><br>
+    </figure>
+
+    <figure>
+        <img src="cachorro.5.jpg" alt="">
+        <figcaption> Max </figcaption><br>
+    </figure>
+
+    <figure>
+        <img src="cachorro.4.jpg" alt="">
+        <figcaption> Spike </figcaption><br>
+        </figure >
+
+    <figure>
+    <img src="cachorro.3.jpg" alt="">
+    <figcaption> Nick </figcaption> <br>
+
+    </figure>
+
+     
+
+    </section>
+
+ <footer> 
+     &COPY; 30/03/2022 
+ </footer>
+
+   
+</body>
+</html>
